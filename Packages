@@ -1,0 +1,12 @@
+Package: eu.heinelt.ifile
+Name: iFIle
+Version: 6.1.3
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, firmware (>= 5.0)
+Filename: debs/eu.heinelt.ifile_1.9.1-1_iphoneos-arm_fabius.deb
+Size: 7651982
+MD5sum: 7ed97b97e6df4407331bc58631a3e6a7
+SHA1: 9d42a109f20b2a3eaef93974d9c5843442ce0947
+SHA256: 10ab9af5fc469135a361cbe9b3bdd8c66ac99686c0a5e37f7e3754806aca751a
+Section: Tweaks
+Description: iFile for ios 6.1.3

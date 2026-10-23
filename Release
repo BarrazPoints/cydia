@@ -1,0 +1,20 @@
+Origin: JosphPinCollecr
+Label: JosphPinCollecr
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Static architecture manifest mapping suite indices.
+MD5Sum:
+ 8f606aa9fa4e21505cdff8d67fd4a3f3 412 Packages
+ 7647e8b96192da98d7b1e821309a60c1 314 Packages.gz
+ 7647e8b96192da98d7b1e821309a60c1 314 Packages.bz2
+SHA1:
+ b635c15f25e8f07c68b3ce9ec3d12b86ce03156e 412 Packages
+ c9647ebce6454939232fa39e8e072550f60733c2 314 Packages.gz
+ c9647ebce6454939232fa39e8e072550f60733c2 314 Packages.bz2
+SHA256:
+ 7a00ae3098d512e46a426cfeffdd513a48d2a038df8a7136c89be8c930bc5939 412 Packages
+ 612b2c413ba52f29b725614c4c12023632f05ea011e2f57fa735a7ac037f4100 314 Packages.gz
+ 612b2c413ba52f29b725614c4c12023632f05ea011e2f57fa735a7ac037f4100 314 Packages.bz2
